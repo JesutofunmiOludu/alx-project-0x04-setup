@@ -1,0 +1,1 @@
+import { PageRouteProps } from "@/pages/index";
